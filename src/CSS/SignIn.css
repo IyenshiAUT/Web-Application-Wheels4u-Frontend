@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+  }
+  
+
+  .logincol {
+    float: left;
+    padding: 10px;
+    height:800px;
+  }
+  
+  .left {
+    width: 30%;
+    background-color: #e5e5e5;
+    align-items: center;
+  }
+  
+  #logo{
+    width: 70%;
+    padding-left: 100px;
+    padding-top:50px;
+  }
+
+  #SignUp{
+    color: #FE8000;
+  }
+
+  #sign-up{
+    color: #FE8000;
+  }
+
+  #photo1{
+    width:100%;
+  }
+
+  .warning{
+    font-size: small;
+    color: red;
+    font-weight: bold;
+  }
+
+  .right1 {
+    width: 70%;
+    background-color: white;
+    padding-top: 150px;
+    padding-left: 10px;
+    line-height: 5px;
+  }
+  
+  /* Clear floats after the columns */
+  .login:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

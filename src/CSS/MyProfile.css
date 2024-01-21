@@ -1,0 +1,66 @@
+#info-Profile {
+    float: left;
+    width: 30%;
+    padding-top: 25px;
+    padding-left:50px;
+    height: 390px;
+    line-height: 48px;
+  }
+  
+  #ConfirmReservationBack{
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: left;
+  }
+
+  #save-changes{
+    margin-left: 313px;
+    width: fit-content;
+  }
+
+#detail-Profile {
+    float: left;
+    width: 70%;
+    padding-top:10px;
+    padding-left: 10px;
+    height: 390px;
+    line-height: 25px;
+  }
+ 
+
+#my-prof{
+  margin-top: 10px;
+  align-content: center;
+  align-self: center;
+  color:#fe8000;
+  margin-bottom: 5px;
+}
+
+  #cancel{
+    margin-left: 20px;
+    margin-bottom:300px;
+  }
+
+  #confirm{
+    margin-left: 205px;
+    margin-bottom:300px;
+  }
+
+#prof-details{
+    margin-top: 5px;
+    margin-left: 400px;
+    margin-right:550px;
+    padding-top:20px;
+    width:700px;
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+-moz-box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+height:410px;
+  }
+
+  #prof-details:after {
+    
+    content: "";
+    display: table;
+    clear: both;
+  }

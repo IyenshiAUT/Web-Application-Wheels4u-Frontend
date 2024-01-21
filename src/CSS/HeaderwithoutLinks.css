@@ -1,0 +1,16 @@
+#onecol{
+    width:100%;
+    margin: 0;
+    padding-left: 10px;
+    height: 80px;
+    -webkit-box-shadow: 1px 5px 5px 0px rgba(139,148,143,1);
+-moz-box-shadow: 1px 5px 5px 0px rgba(139,148,143,1);
+box-shadow: 1px 5px 5px 0px rgba(139,148,143,1);
+
+
+}
+
+
+*{
+    box-sizing: border-box;
+ }

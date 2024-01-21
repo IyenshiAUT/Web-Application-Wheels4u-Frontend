@@ -1,0 +1,57 @@
+#info {
+    float: left;
+    width: 50%;
+    padding-top: 20px;
+    padding-left:70px;
+    height: 230px;
+    line-height: 25px;
+  }
+  
+  #ConfirmReservationBack{
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+#detail{
+    float: left;
+    width: 50%;
+    padding-top:20px;
+    padding-left: 60px;
+    height: 230px;
+    line-height: 25px;
+  }
+
+#conf-reserv{
+  margin-top: 50px;
+  align-content: center;
+  align-self: center;
+  color:#fe8000;
+}
+
+  #cancel{
+    margin-left: 20px;
+    margin-bottom:300px;
+  }
+
+  #confirm{
+    margin-left: 205px;
+    margin-bottom:300px;
+  }
+
+#reserve-details{
+  margin-top: 40px;
+    margin-left: 550px;
+    margin-right:550px;
+    padding-top:10px;
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+-moz-box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+height:290px;
+  }
+
+  #reserve-details:after {
+    
+    content: "";
+    display: table;
+    clear: both;
+  }

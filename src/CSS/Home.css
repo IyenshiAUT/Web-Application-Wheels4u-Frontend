@@ -1,0 +1,39 @@
+#caption{
+    vertical-align: middle;
+    align-items: center;
+    margin-top: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size:20px;
+    font-weight: bold;
+    background-color: #fe8000;
+    width: 550px;
+    font-family: "Gill Sans", sans-serif;
+    box-shadow: 8px 8px 5px 0px rgba(139,148,143,0.75);
+-webkit-box-shadow: 8px 8px 5px 0px rgba(139,148,143,0.75);
+-moz-box-shadow: 8px 8px 5px 0px rgba(139,148,143,0.75);
+}
+
+#content{
+   vertical-align: middle;
+    margin-top: 0;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size:20px;
+    background-color: white;
+    width: 550px;
+    font-family: "Gill Sans", sans-serif;
+    box-shadow: 8px 8px 5px 0px rgba(139,148,143,0.75);
+-webkit-box-shadow: 8px 8px 5px 0px rgba(139,148,143,0.75);
+-moz-box-shadow: 8px 8px 5px 0px rgba(139,148,143,0.75);
+}
+#time-speci{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 56px;
+}
+LocalizationProvider{
+    margin-left: 100px;margin-top: 0;padding: 0;
+}

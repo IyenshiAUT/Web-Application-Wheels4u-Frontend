@@ -1,0 +1,109 @@
+.header{
+    height: 80px;
+    -webkit-box-shadow: 1px 5px 5px 0px rgba(139,148,143,1);
+-moz-box-shadow: 1px 5px 5px 0px rgba(139,148,143,1);
+box-shadow: 1px 5px 5px 0px rgba(139,148,143,1);
+margin: 0%;
+padding: 0%;
+width:100%;
+}
+#img{
+    vertical-align: center;
+    margin:auto;
+    border: 0;
+}
+
+.black-color {
+  color:#231F20;
+}
+
+.orange-color {
+  color: #FE8000;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:#231F20 ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: cursive;
+    position: relative;
+  }
+  
+  li a:hover:not(.active) {
+    color: gray;
+  }
+  
+  .active {
+    color: #FE8000;
+  }
+
+#AccountCircleRoundedIcon{
+    color:white;
+    font-Size: large;
+    vertical-align: top;
+    margin-right: 0;
+    border-right: 0;
+    border: 0;
+}
+
+*{
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 77.5%;
+    padding-top: 2px;
+
+    margin-top:0;
+    padding-left: 1%;
+   
+  }
+  
+  .column1 {
+    float: left;
+    width: 12%;
+    padding-top: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 10px;
+    
+ /* Should be removed. Only for demonstration */
+  }
+
+  .column11{
+    float: left;
+    align-items: center;
+    width: 10%;
+    padding-top: 12px;
+    padding-right:40px;
+    align-items: right;
+    
+ /* Should be removed. Only for demonstration */
+  }
+
+
+
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+

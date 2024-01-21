@@ -1,0 +1,59 @@
+#VehiclesBack{
+    margin-top: 10px;
+    margin-left:10px;
+    padding-top: 5px;
+
+}
+
+#reserve{
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-top: 50px;
+}
+
+#reservegrid{
+    margin-bottom: 5px;
+    margin-right: 5px;
+    
+}
+
+#scrollable{
+    overflow: scroll;
+    scroll-behavior: smooth;
+    height:665px;
+}
+
+#card{
+    margin-top: 20px;
+    font-family: "Gill Sans", sans-serif;
+    box-shadow: 0px 0px 5px 0px rgba(139,148,143,0.75);
+-webkit-box-shadow: 0px 0px 5px 0px rgba(139,148,143,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(139,148,143,0.75);
+}
+
+#card:hover{
+    box-shadow: 0px 0px 5px 3px #fe8000;
+-webkit-box-shadow: 0px 0px 5px 3px #fe8000;
+-moz-box-shadow: 0px 0px 5px 3px #fe8000;
+
+}
+
+#change{
+    line-height: 2px;
+}
+
+#bg{
+    padding-top: 10px;
+    align-content: center;
+}
+
+#VehiclesBack:hover{
+    color:gray;
+}
+
+
+#avail-vehi{
+    color: #fe8000;
+    text-align: center;
+    
+}

@@ -1,0 +1,78 @@
+#my-reservations{
+    color: #FE8000;
+
+}
+
+.scroll{
+    overflow: scroll;
+    scroll-behavior: smooth;
+    width: 100%;
+    height:530px;
+}
+
+#MyResevations{
+    margin-top: 150px;
+}
+#MyReservationsBack{
+    text-align: left;
+    margin-top: 50px;
+}
+.res{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right:20px;
+    padding-top:10px;
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+-moz-box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+box-shadow: 0px 0px 5px 5px rgba(139,148,143,1);
+width:500px;
+height:270px;
+}
+
+.res:hover{
+    box-shadow: 0px 0px 5px 3px #fe8000;
+-webkit-box-shadow: 0px 0px 5px 3px #fe8000;
+-moz-box-shadow: 0px 0px 5px 3px #fe8000;
+}
+
+
+
+#icon{
+    align-content: end;
+    margin-left: 120px;
+}
+#dom:hover{
+    background-color: white;
+    color: white;
+    font-style: normal;
+    background: none;
+    width: 10px;
+}
+
+
+.sub{
+    align-items: center;
+    padding-left: 40px;
+    color: #FE8000;
+}
+
+.col-reserv {
+    float: left;
+    width: 50%;
+    padding-left: 80px;
+    
+     /* Should be removed. Only for demonstration */
+  }
+.col1-reserv{
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height:665px; /* Should be removed. Only for demonstration */
+}
+#MyReservations:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+

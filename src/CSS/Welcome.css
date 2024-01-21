@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    background-image: 'line.jpeg';
+  }
+
+#welocme{
+  background-image: url('https://i.gaw.to/content/photos/42/32/423256-les-ventes-de-vehicules-neufs-auraient-chute-de-74-pc-en-avril.jpg?460x287');
+  background-size: cover;
+}
+
+#hello{
+    size: 100%;
+    margin-left: 500px;
+    padding: 5px;
+    -webkit-box-shadow: 0px 0px 5px 5px #FE8000;
+    -moz-box-shadow: 0px 0px 5px 5px #FE8000;
+    box-shadow: 0px 0px 5px 5px #FE8000;
+    border-radius: 100px;
+}
+
+#bwelcome{
+    color: #FE8000;
+}
+
+#welbox{
+    size: 100%;
+    margin-left: 70px;
+    padding-top: 5px;
+    color: black;
+
+    font-size: 40px;
+}
+#sign{
+  margin-left: 1220px;
+}
+
+#sign:hover{
+  color: #FE8000;
+}
+
+#btnBox{
+    font-size: 40px;
+    font-weight: bolder;
+    line-height: 45px;
+}
+
+
+ 
+  /* Clear floats after the columns */
+ 
+
